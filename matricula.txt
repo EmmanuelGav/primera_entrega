@@ -1,0 +1,4 @@
+El estudiante Emmanuel
+con cedula 10369697633
+se ha matriculado en el curso de Quimica
+que tiene una duración de 24 y un valor de 50000
